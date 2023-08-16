@@ -274,8 +274,7 @@ section.article {
     display: flex;
     flex-direction: column;
   }
-  .marvel-img {
-  }
+  
 }
 
 @media (max-width: 420px) {
@@ -318,15 +317,6 @@ section.article {
   filter: brightness(20%);
 }
 
-.marvel-img {
-  /* background-image: url(./assets/marvel1.jpg); */
-  /* background: url("./assets/marvel1.jpg");
-  width: 50%;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: contain;
-  filter: brightness(20%); */
-}
 
 .text {
   color: #fff;
